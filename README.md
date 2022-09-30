@@ -1,14 +1,3 @@
-## Hi there, I'm David 👋
-
-ㅤㅤ<a href="https://stackoverflow.com/users/6305235/david-miguel"><img src="https://stackoverflow.com/users/flair/6305235.png?theme=clean" width="208" height="58" alt="David Miguel at Stack Overflow" title="David Miguel at Stack Overflow" align="top"></a>
-
-- 🌶 I am currently building [BRXS](https://www.brxsapp.com/).
-- 📫 You can reach me at [davidmiguel.com](https://www.davidmiguel.com/).
-
-<img  src="https://github-readme-stats.vercel.app/api?username=davidmigloz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true">
-
----
-
 ### Latest articles
 
 - [Dart for Kotliners](https://davidmigloz.medium.com/dart-for-kotliners-eb6d6a6676b)
