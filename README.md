@@ -17,6 +17,9 @@
 
 ### Open source projects
 
+**🎯 Dart / Flutter libraries:**
+- [`langchain_dart`](https://github.com/davidmigloz/langchain_dart): build powerful LLM-based Dart/Flutter applications.
+
 **🤖 Android libraries:**
 - [`line-chart`](https://github.com/davidmigloz/line-chart): simple line chart library.
 - [`drag-to-close`](https://github.com/davidmigloz/drag-to-close): view group which allows to finish an activity by dragging a view.
