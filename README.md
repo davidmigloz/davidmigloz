@@ -11,7 +11,7 @@
 
 ### Latest articles
 
-- [Introducing LangChain.dart 🦜️🔗](https://blog.langchaindart.com/introducing-langchain-dart-6b1d34fc41ef)
+- [Introducing LangChain.dart 🦜️🔗](https://blog.langchaindart.dev/introducing-langchain-dart-6b1d34fc41ef)
 - [Dart for Kotliners](https://davidmigloz.medium.com/dart-for-kotliners-eb6d6a6676b)
 - [Migrating custom fonts from Calligraphy to Android fonts](https://davidmigloz.medium.com/migrating-custom-fonts-from-calligraphy-to-android-fonts-3b635fd945dc)
 
